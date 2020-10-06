@@ -1,0 +1,2 @@
+colorscheme iceberg
+syntax on
